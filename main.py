@@ -24,7 +24,7 @@ logger.info('Start reading database')
 bot = commands.Bot("$")
 
 
-TOKEN = "NzE4OTM2NzUzODA0NjczMDM0.XtwIdQ.nNIcMroWqJLgLuGqEFec9XSlFSQ"
+TOKEN = ".XtwIdQ.nNIcMroWqJLgLuGqEFec9XSlFSQ"
 
 steamIDs = {}
 steamIDs['276083035881865216'] = {}
